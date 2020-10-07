@@ -1,0 +1,1 @@
+## Projeto WebAPI com .Net Core e Angular.
